@@ -1,4 +1,4 @@
-# Price prediction case study
+# Sales prediction case study
 In this project, I develop a simple model to predict units sold for all products in a fictional Company's portfolio. 
 - I begin by visualizing the data to understand its structure.
 - I then proceed to engineer relevant features that might help in predicting the distribution of units sold for each product, given the product's price and product attributes.
